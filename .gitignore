@@ -6,3 +6,5 @@ coverage/
 !.env.example
 .DS_Store
 *.log
+.delivery-state.json
+.delivery-state.json.tmp-*
